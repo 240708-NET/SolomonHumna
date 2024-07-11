@@ -1,3 +1,42 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("What is your name? ");
-String name = Console.ReadLine();
+﻿class Program
+{
+	static void Main(String[] args)
+	{
+			//user story
+		//Ask user which temprature measurment types they want to convet
+		//convert temprature between celsius and Fahrenheit
+		//ask the user to do it again
+
+
+		//variables
+		float celsius = 0;
+		float fahrenheit = 0;
+		var userInputF = "f";
+		var userInputC = "c"; 
+
+			//Ask the user which temprature types they want convert from?
+		Console.WriteLine("Which type of temprature type you want convert? ");
+		var tempType = Console.ReadLine();		
+		if(tempType == userInputF) //checking the input information
+		{
+			Console.Write("Enter temp in fahrenheit ");
+			var k = Convert.ToSingle(Console.ReadLine()); //convert the string into float
+			celsius = ((k - 32)*5/9); //convert the 
+			Console.WriteLine("The temp in Celsius is {0}",  celsius); //printout the result
+		}
+		else if(tempType == userInputC) // check the if the input is in celcius
+		{
+			Console.Write("Enter temprature in celsius "); // ask user to input the temprature
+			var j = Convert.ToSingle(Console.ReadLine()); //convert the string to float
+			fahrenheit = ((j * 9/5) +32); 
+			Console.WriteLine("The temp in Fahrenheit is {0}",  fahrenheit); //printout the result
+		}
+		else
+		{
+			Console.WriteLine("You entered wrong data type!"); //exception check
+		}
+	
+		
+
+	}
+}
