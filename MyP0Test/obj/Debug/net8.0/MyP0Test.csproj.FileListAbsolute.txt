@@ -1,0 +1,15 @@
+C:\Users\solod\Revature\SolomonHumna\MyP0Test\bin\Debug\net8.0\MyP0Test.exe
+C:\Users\solod\Revature\SolomonHumna\MyP0Test\bin\Debug\net8.0\MyP0Test.deps.json
+C:\Users\solod\Revature\SolomonHumna\MyP0Test\bin\Debug\net8.0\MyP0Test.runtimeconfig.json
+C:\Users\solod\Revature\SolomonHumna\MyP0Test\bin\Debug\net8.0\MyP0Test.dll
+C:\Users\solod\Revature\SolomonHumna\MyP0Test\bin\Debug\net8.0\MyP0Test.pdb
+C:\Users\solod\Revature\SolomonHumna\MyP0Test\obj\Debug\net8.0\MyP0Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solod\Revature\SolomonHumna\MyP0Test\obj\Debug\net8.0\MyP0Test.AssemblyInfoInputs.cache
+C:\Users\solod\Revature\SolomonHumna\MyP0Test\obj\Debug\net8.0\MyP0Test.AssemblyInfo.cs
+C:\Users\solod\Revature\SolomonHumna\MyP0Test\obj\Debug\net8.0\MyP0Test.csproj.CoreCompileInputs.cache
+C:\Users\solod\Revature\SolomonHumna\MyP0Test\obj\Debug\net8.0\MyP0Test.sourcelink.json
+C:\Users\solod\Revature\SolomonHumna\MyP0Test\obj\Debug\net8.0\MyP0Test.dll
+C:\Users\solod\Revature\SolomonHumna\MyP0Test\obj\Debug\net8.0\refint\MyP0Test.dll
+C:\Users\solod\Revature\SolomonHumna\MyP0Test\obj\Debug\net8.0\MyP0Test.pdb
+C:\Users\solod\Revature\SolomonHumna\MyP0Test\obj\Debug\net8.0\MyP0Test.genruntimeconfig.cache
+C:\Users\solod\Revature\SolomonHumna\MyP0Test\obj\Debug\net8.0\ref\MyP0Test.dll
