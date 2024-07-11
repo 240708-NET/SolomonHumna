@@ -3,7 +3,7 @@
 	static void Main(String[] args)
 	{
 			//user story
-		//Ask user which temprature measurment types they want to convet
+		//user must have an option to choose between celsius, and Fahrenheit
 		//convert temprature between celsius and Fahrenheit
 		//ask the user to do it again
 
