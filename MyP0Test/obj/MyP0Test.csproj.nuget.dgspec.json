@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\solod\\Revature\\SolomonHumna\\Myp0Test\\MyP0Test.csproj": {}
+    "C:\\Users\\solod\\Revature\\SolomonHumna\\MyP0Test\\MyP0Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\solod\\Revature\\SolomonHumna\\Myp0Test\\MyP0Test.csproj": {
+    "C:\\Users\\solod\\Revature\\SolomonHumna\\MyP0Test\\MyP0Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\solod\\Revature\\SolomonHumna\\Myp0Test\\MyP0Test.csproj",
+        "projectUniqueName": "C:\\Users\\solod\\Revature\\SolomonHumna\\MyP0Test\\MyP0Test.csproj",
         "projectName": "MyP0Test",
-        "projectPath": "C:\\Users\\solod\\Revature\\SolomonHumna\\Myp0Test\\MyP0Test.csproj",
+        "projectPath": "C:\\Users\\solod\\Revature\\SolomonHumna\\MyP0Test\\MyP0Test.csproj",
         "packagesPath": "C:\\Users\\solod\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\solod\\Revature\\SolomonHumna\\Myp0Test\\obj\\",
+        "outputPath": "C:\\Users\\solod\\Revature\\SolomonHumna\\MyP0Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\solod\\AppData\\Roaming\\NuGet\\NuGet.Config"

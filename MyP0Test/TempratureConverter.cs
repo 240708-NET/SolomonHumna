@@ -1,6 +1,6 @@
 class TempConverter
 {
-        //user story
+            //user story
 		//user must have an option to choose between celsius, and Fahrenheit
 		//convert temprature between celsius and Fahrenheit
 		//ask the user to do it again
@@ -27,28 +27,33 @@ class TempConverter
             do{ //loop again
                 
                do{        
-                        Console.WriteLine("Which type of temprature type you want convert? ");
-                        var tempType = Console.ReadLine().ToLower();		
-                        if(tempType == userInputF) //checking the input information
-                        {
-                            Console.Write("Enter temp in fahrenheit ");
-                            var k = Convert.ToSingle(Console.ReadLine()); //convert the string into float
-                            celsius = ((k - 32)*5/9); //calculate to convert
-                            Console.WriteLine("The temp in Celsius is {0}",  celsius); //printout the result
-                        }
-                        else if(tempType == userInputC) // check the if the input is in celcius
-                        {
-                            Console.Write("Enter temprature in celsius "); // ask user to input the temprature
-                            var j = Convert.ToSingle(Console.ReadLine()); //convert the string to float
-                            fahrenheit = ((j * 9/5) +32); //calculate the conversion
-                            Console.WriteLine("The temp in Fahrenheit is {0}",  fahrenheit); //printout the result
-                        }
-                        else
-                        {
-                            Console.WriteLine("You entered wrong data type!"); //exception check
-                        }      
-                       Console.WriteLine("Do you want to check again? ");
-                        answer = Console.ReadLine();
+                        //user must have an option to choose between celsius, and Fahrenheit
+                    Console.WriteLine("Which type of temprature type you want convert? ");
+                    var tempType = Console.ReadLine().ToLower();		
+                    if(tempType == userInputF) //checking the input information
+                    {
+                        Console.Write("Enter temp in fahrenheit ");
+                        var k = Convert.ToSingle(Console.ReadLine()); //convert the string into float
+                        celsius = ((k - 32)*5/9); //calculate to convert
+                        celsius = (float)Math.Round(celsius, 1);
+                        Console.WriteLine("The temp in Celsius is {0}",  celsius); //printout the result
+                    }
+                    else if(tempType == userInputC) // check the if the input is in celcius
+                    {
+                        Console.Write("Enter temprature in celsius "); // ask user to input the temprature
+                        var j = Convert.ToSingle(Console.ReadLine()); //convert the string to float
+                        fahrenheit = ((j * 9/5) +32); //calculate the conversion
+                        fahrenheit = (float)Math.Round(fahrenheit, 1);
+                        Console.WriteLine("The temp in Fahrenheit is {0}",  fahrenheit); //printout the result
+                    }
+                    else
+                    {
+                        Console.WriteLine("You entered wrong data type!"); //exception check
+                    } 
+                    Console.WriteLine();
+                        
+                    Console.WriteLine("Do you want to check again? ");
+                    answer = Console.ReadLine();
                     
                 }while (answer == answerYes.ToLower());
                 break;   
