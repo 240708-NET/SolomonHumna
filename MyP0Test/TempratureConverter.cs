@@ -16,6 +16,7 @@ class TempConverter
 		string answerYes {get; set;}= "y";
 		string answerNo {get; set;}= "n";
 		string answer {get; set;}= "";
+        bool noMore = false;
 
 
             //method
@@ -25,12 +26,7 @@ class TempConverter
             //Ask the user which temprature types they want convert from?
             do{ //loop again
                 
-               // do{
-                    Console.WriteLine("Do yo want to convert unit of measurment? ");
-                    answer = Console.ReadLine();
-                    if(answer == answerYes){
-                        
-                        
+               do{        
                         Console.WriteLine("Which type of temprature type you want convert? ");
                         var tempType = Console.ReadLine().ToLower();		
                         if(tempType == userInputF) //checking the input information
@@ -51,13 +47,12 @@ class TempConverter
                         {
                             Console.WriteLine("You entered wrong data type!"); //exception check
                         }      
-                    }
-                       /* Console.WriteLine("Do you want to check again? ");
+                       Console.WriteLine("Do you want to check again? ");
                         answer = Console.ReadLine();
-                        if(answer == answerYes){
-                            continue;
-                        }*/
-               // }while (answer != answerNo.ToLower());   	
+                    
+                }while (answer == answerYes.ToLower());
+                break;   
+
             }while(answer == answerNo.ToLower());
         }
 
