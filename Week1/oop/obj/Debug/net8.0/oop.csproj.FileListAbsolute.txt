@@ -1,0 +1,15 @@
+C:\Users\solod\Revature\SolomonHumna\Week1\oop\bin\Debug\net8.0\oop.exe
+C:\Users\solod\Revature\SolomonHumna\Week1\oop\bin\Debug\net8.0\oop.deps.json
+C:\Users\solod\Revature\SolomonHumna\Week1\oop\bin\Debug\net8.0\oop.runtimeconfig.json
+C:\Users\solod\Revature\SolomonHumna\Week1\oop\bin\Debug\net8.0\oop.dll
+C:\Users\solod\Revature\SolomonHumna\Week1\oop\bin\Debug\net8.0\oop.pdb
+C:\Users\solod\Revature\SolomonHumna\Week1\oop\obj\Debug\net8.0\oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solod\Revature\SolomonHumna\Week1\oop\obj\Debug\net8.0\oop.AssemblyInfoInputs.cache
+C:\Users\solod\Revature\SolomonHumna\Week1\oop\obj\Debug\net8.0\oop.AssemblyInfo.cs
+C:\Users\solod\Revature\SolomonHumna\Week1\oop\obj\Debug\net8.0\oop.csproj.CoreCompileInputs.cache
+C:\Users\solod\Revature\SolomonHumna\Week1\oop\obj\Debug\net8.0\oop.sourcelink.json
+C:\Users\solod\Revature\SolomonHumna\Week1\oop\obj\Debug\net8.0\oop.dll
+C:\Users\solod\Revature\SolomonHumna\Week1\oop\obj\Debug\net8.0\refint\oop.dll
+C:\Users\solod\Revature\SolomonHumna\Week1\oop\obj\Debug\net8.0\oop.pdb
+C:\Users\solod\Revature\SolomonHumna\Week1\oop\obj\Debug\net8.0\oop.genruntimeconfig.cache
+C:\Users\solod\Revature\SolomonHumna\Week1\oop\obj\Debug\net8.0\ref\oop.dll

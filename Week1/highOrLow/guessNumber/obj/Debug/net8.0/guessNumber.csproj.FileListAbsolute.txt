@@ -1,0 +1,15 @@
+C:\Users\solod\Revature\SolomonHumna\Week1\highOrLow\guessNumber\obj\Debug\net8.0\guessNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solod\Revature\SolomonHumna\Week1\highOrLow\guessNumber\obj\Debug\net8.0\guessNumber.AssemblyInfoInputs.cache
+C:\Users\solod\Revature\SolomonHumna\Week1\highOrLow\guessNumber\obj\Debug\net8.0\guessNumber.AssemblyInfo.cs
+C:\Users\solod\Revature\SolomonHumna\Week1\highOrLow\guessNumber\obj\Debug\net8.0\guessNumber.csproj.CoreCompileInputs.cache
+C:\Users\solod\Revature\SolomonHumna\Week1\highOrLow\guessNumber\obj\Debug\net8.0\guessNumber.sourcelink.json
+C:\Users\solod\Revature\SolomonHumna\Week1\highOrLow\guessNumber\bin\Debug\net8.0\guessNumber.exe
+C:\Users\solod\Revature\SolomonHumna\Week1\highOrLow\guessNumber\bin\Debug\net8.0\guessNumber.deps.json
+C:\Users\solod\Revature\SolomonHumna\Week1\highOrLow\guessNumber\bin\Debug\net8.0\guessNumber.runtimeconfig.json
+C:\Users\solod\Revature\SolomonHumna\Week1\highOrLow\guessNumber\bin\Debug\net8.0\guessNumber.dll
+C:\Users\solod\Revature\SolomonHumna\Week1\highOrLow\guessNumber\bin\Debug\net8.0\guessNumber.pdb
+C:\Users\solod\Revature\SolomonHumna\Week1\highOrLow\guessNumber\obj\Debug\net8.0\guessNumber.dll
+C:\Users\solod\Revature\SolomonHumna\Week1\highOrLow\guessNumber\obj\Debug\net8.0\refint\guessNumber.dll
+C:\Users\solod\Revature\SolomonHumna\Week1\highOrLow\guessNumber\obj\Debug\net8.0\guessNumber.pdb
+C:\Users\solod\Revature\SolomonHumna\Week1\highOrLow\guessNumber\obj\Debug\net8.0\guessNumber.genruntimeconfig.cache
+C:\Users\solod\Revature\SolomonHumna\Week1\highOrLow\guessNumber\obj\Debug\net8.0\ref\guessNumber.dll
