@@ -22,7 +22,7 @@ class TempConverter
             //method
         public void ConvertTemp(){
 
-        
+                        //user story 1
             //Ask the user which temprature types they want convert from?
             do{ //loop again
                 
@@ -32,6 +32,8 @@ class TempConverter
                     var tempType = Console.ReadLine().ToLower();		
                     if(tempType == userInputF) //checking the input information
                     {
+                        //user story 2
+                        //convert temprature between celsius and Fahrenheit
                         Console.Write("Enter temp in fahrenheit ");
                         var k = Convert.ToSingle(Console.ReadLine()); //convert the string into float
                         celsius = ((k - 32)*5/9); //calculate to convert
@@ -50,8 +52,9 @@ class TempConverter
                     {
                         Console.WriteLine("You entered wrong data type!"); //exception check
                     } 
-                    Console.WriteLine();
-                        
+                    Console.WriteLine(); //spacing
+                        //user story 3
+                        //ask the user to do it again
                     Console.WriteLine("Do you want to check again? ");
                     answer = Console.ReadLine();
                     
