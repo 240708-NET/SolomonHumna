@@ -1,0 +1,15 @@
+C:\Users\solod\Revature\SolomonHumna\week1\FileIO\FileIo\bin\Debug\net8.0\FileIo.exe
+C:\Users\solod\Revature\SolomonHumna\week1\FileIO\FileIo\bin\Debug\net8.0\FileIo.deps.json
+C:\Users\solod\Revature\SolomonHumna\week1\FileIO\FileIo\bin\Debug\net8.0\FileIo.runtimeconfig.json
+C:\Users\solod\Revature\SolomonHumna\week1\FileIO\FileIo\bin\Debug\net8.0\FileIo.dll
+C:\Users\solod\Revature\SolomonHumna\week1\FileIO\FileIo\bin\Debug\net8.0\FileIo.pdb
+C:\Users\solod\Revature\SolomonHumna\week1\FileIO\FileIo\obj\Debug\net8.0\FileIo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solod\Revature\SolomonHumna\week1\FileIO\FileIo\obj\Debug\net8.0\FileIo.AssemblyInfoInputs.cache
+C:\Users\solod\Revature\SolomonHumna\week1\FileIO\FileIo\obj\Debug\net8.0\FileIo.AssemblyInfo.cs
+C:\Users\solod\Revature\SolomonHumna\week1\FileIO\FileIo\obj\Debug\net8.0\FileIo.csproj.CoreCompileInputs.cache
+C:\Users\solod\Revature\SolomonHumna\week1\FileIO\FileIo\obj\Debug\net8.0\FileIo.sourcelink.json
+C:\Users\solod\Revature\SolomonHumna\week1\FileIO\FileIo\obj\Debug\net8.0\FileIo.dll
+C:\Users\solod\Revature\SolomonHumna\week1\FileIO\FileIo\obj\Debug\net8.0\refint\FileIo.dll
+C:\Users\solod\Revature\SolomonHumna\week1\FileIO\FileIo\obj\Debug\net8.0\FileIo.pdb
+C:\Users\solod\Revature\SolomonHumna\week1\FileIO\FileIo\obj\Debug\net8.0\FileIo.genruntimeconfig.cache
+C:\Users\solod\Revature\SolomonHumna\week1\FileIO\FileIo\obj\Debug\net8.0\ref\FileIo.dll

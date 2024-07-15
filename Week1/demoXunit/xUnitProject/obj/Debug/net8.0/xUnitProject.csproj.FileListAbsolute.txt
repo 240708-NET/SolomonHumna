@@ -1,0 +1,15 @@
+C:\Users\solod\Revature\SolomonHumna\Week1\demoXunit\xUnitProject\bin\Debug\net8.0\xUnitProject.exe
+C:\Users\solod\Revature\SolomonHumna\Week1\demoXunit\xUnitProject\bin\Debug\net8.0\xUnitProject.deps.json
+C:\Users\solod\Revature\SolomonHumna\Week1\demoXunit\xUnitProject\bin\Debug\net8.0\xUnitProject.runtimeconfig.json
+C:\Users\solod\Revature\SolomonHumna\Week1\demoXunit\xUnitProject\bin\Debug\net8.0\xUnitProject.dll
+C:\Users\solod\Revature\SolomonHumna\Week1\demoXunit\xUnitProject\bin\Debug\net8.0\xUnitProject.pdb
+C:\Users\solod\Revature\SolomonHumna\Week1\demoXunit\xUnitProject\obj\Debug\net8.0\xUnitProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solod\Revature\SolomonHumna\Week1\demoXunit\xUnitProject\obj\Debug\net8.0\xUnitProject.AssemblyInfoInputs.cache
+C:\Users\solod\Revature\SolomonHumna\Week1\demoXunit\xUnitProject\obj\Debug\net8.0\xUnitProject.AssemblyInfo.cs
+C:\Users\solod\Revature\SolomonHumna\Week1\demoXunit\xUnitProject\obj\Debug\net8.0\xUnitProject.csproj.CoreCompileInputs.cache
+C:\Users\solod\Revature\SolomonHumna\Week1\demoXunit\xUnitProject\obj\Debug\net8.0\xUnitProject.sourcelink.json
+C:\Users\solod\Revature\SolomonHumna\Week1\demoXunit\xUnitProject\obj\Debug\net8.0\xUnitProject.dll
+C:\Users\solod\Revature\SolomonHumna\Week1\demoXunit\xUnitProject\obj\Debug\net8.0\refint\xUnitProject.dll
+C:\Users\solod\Revature\SolomonHumna\Week1\demoXunit\xUnitProject\obj\Debug\net8.0\xUnitProject.pdb
+C:\Users\solod\Revature\SolomonHumna\Week1\demoXunit\xUnitProject\obj\Debug\net8.0\xUnitProject.genruntimeconfig.cache
+C:\Users\solod\Revature\SolomonHumna\Week1\demoXunit\xUnitProject\obj\Debug\net8.0\ref\xUnitProject.dll

@@ -1,0 +1,15 @@
+C:\Users\solod\Revature\SolomonHumna\Week1\SelfPracticeCode\codePractice\bin\Debug\net8.0\codePractice.exe
+C:\Users\solod\Revature\SolomonHumna\Week1\SelfPracticeCode\codePractice\bin\Debug\net8.0\codePractice.deps.json
+C:\Users\solod\Revature\SolomonHumna\Week1\SelfPracticeCode\codePractice\bin\Debug\net8.0\codePractice.runtimeconfig.json
+C:\Users\solod\Revature\SolomonHumna\Week1\SelfPracticeCode\codePractice\bin\Debug\net8.0\codePractice.dll
+C:\Users\solod\Revature\SolomonHumna\Week1\SelfPracticeCode\codePractice\bin\Debug\net8.0\codePractice.pdb
+C:\Users\solod\Revature\SolomonHumna\Week1\SelfPracticeCode\codePractice\obj\Debug\net8.0\codePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solod\Revature\SolomonHumna\Week1\SelfPracticeCode\codePractice\obj\Debug\net8.0\codePractice.AssemblyInfoInputs.cache
+C:\Users\solod\Revature\SolomonHumna\Week1\SelfPracticeCode\codePractice\obj\Debug\net8.0\codePractice.AssemblyInfo.cs
+C:\Users\solod\Revature\SolomonHumna\Week1\SelfPracticeCode\codePractice\obj\Debug\net8.0\codePractice.csproj.CoreCompileInputs.cache
+C:\Users\solod\Revature\SolomonHumna\Week1\SelfPracticeCode\codePractice\obj\Debug\net8.0\codePractice.sourcelink.json
+C:\Users\solod\Revature\SolomonHumna\Week1\SelfPracticeCode\codePractice\obj\Debug\net8.0\codePractice.dll
+C:\Users\solod\Revature\SolomonHumna\Week1\SelfPracticeCode\codePractice\obj\Debug\net8.0\refint\codePractice.dll
+C:\Users\solod\Revature\SolomonHumna\Week1\SelfPracticeCode\codePractice\obj\Debug\net8.0\codePractice.pdb
+C:\Users\solod\Revature\SolomonHumna\Week1\SelfPracticeCode\codePractice\obj\Debug\net8.0\codePractice.genruntimeconfig.cache
+C:\Users\solod\Revature\SolomonHumna\Week1\SelfPracticeCode\codePractice\obj\Debug\net8.0\ref\codePractice.dll
