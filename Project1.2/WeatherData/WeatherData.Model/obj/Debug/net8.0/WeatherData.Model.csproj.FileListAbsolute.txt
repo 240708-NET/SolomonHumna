@@ -1,0 +1,10 @@
+C:\Users\solod\Revature\solomonHumna\Project1.2\WeatherData.Model\obj\Debug\net8.0\WeatherData.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solod\Revature\solomonHumna\Project1.2\WeatherData.Model\obj\Debug\net8.0\WeatherData.Model.AssemblyInfoInputs.cache
+C:\Users\solod\Revature\solomonHumna\Project1.2\WeatherData.Model\obj\Debug\net8.0\WeatherData.Model.AssemblyInfo.cs
+C:\Users\solod\Revature\solomonHumna\Project1.2\WeatherData.Model\obj\Debug\net8.0\WeatherData.Model.csproj.CoreCompileInputs.cache
+C:\Users\solod\Revature\solomonHumna\Project1.2\WeatherData.Model\obj\Debug\net8.0\WeatherData.Model.sourcelink.json
+C:\Users\solod\Revature\SolomonHumna\Project1.2\WeatherData\WeatherData.Model\obj\Debug\net8.0\WeatherData.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solod\Revature\SolomonHumna\Project1.2\WeatherData\WeatherData.Model\obj\Debug\net8.0\WeatherData.Model.AssemblyInfoInputs.cache
+C:\Users\solod\Revature\SolomonHumna\Project1.2\WeatherData\WeatherData.Model\obj\Debug\net8.0\WeatherData.Model.AssemblyInfo.cs
+C:\Users\solod\Revature\SolomonHumna\Project1.2\WeatherData\WeatherData.Model\obj\Debug\net8.0\WeatherData.Model.csproj.CoreCompileInputs.cache
+C:\Users\solod\Revature\SolomonHumna\Project1.2\WeatherData\WeatherData.Model\obj\Debug\net8.0\WeatherData.Model.sourcelink.json
