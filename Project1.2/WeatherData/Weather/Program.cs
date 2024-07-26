@@ -1,20 +1,32 @@
 ﻿using System;
 using WeatherData.Repo;
 using WeatherData.Model;
+
 namespace Weather
+
 {
-    public static void Main(string[] args)
+    public class Program
     {
-        IWeather temp = new Weather();
-        temp.GenerateWeatherData();
-        temp.DisplayWeather();
+        public static void Main(string[] args)
+
+        {
+            string path = @"./Weather.txt";
+            IWeather temp = new WeatherData.Repo.WeatherData();
+            temp.GenerateWeatherData();
+            //IWeather temprature = new Serialization();
+            
+
+            // WeatherCondition BadOrGoodWeather = new WeatherCondition();
+            // temprature.SaveWeather(BadOrGoodWeather, path);
+            // //temp.DisplayWeather();
+
+            // string jsonWeather = JsonSerializer.Serialize(temp);
+            // jsonWeather.Serialize(temp);
+        }
     }
 }
-/*IWeather Today = new Weather("Hot", 27, 80);
-WeatherCondition temp = new WeatherCondition(Today);
-//Iweather convert = new ConvertTemprature(convert);
 
 
 
-temp.displayWeather();
-//convert.ConvertTemp();*/
+
+
