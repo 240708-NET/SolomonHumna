@@ -1,3 +1,4 @@
+
 class TempConverter
 {
             //user story
@@ -34,7 +35,7 @@ class TempConverter
                     {
                         //user story 2
                         //convert temprature between celsius and Fahrenheit
-                        Console.Write("Enter temp in fahrenheit ");
+                        Console.Write("Enter temprature in fahrenheit ");
                         var k = Convert.ToSingle(Console.ReadLine()); //convert the string into float
                         celsius = ((k - 32)*5/9); //calculate to convert
                         celsius = (float)Math.Round(celsius, 1);
@@ -56,8 +57,8 @@ class TempConverter
                         //user story 3
                         //ask the user to do it again
                     Console.WriteLine("Do you want to check again? ");
-                    answer = Console.ReadLine();
-                    
+                    answer = Console.ReadLine().ToLower();
+                
                 }while (answer == answerYes.ToLower());
                 break;   
 
